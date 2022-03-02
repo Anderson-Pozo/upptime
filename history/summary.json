@@ -4,7 +4,7 @@
     "url": "https://andersonpozo.me/",
     "icon": "https://favicons.githubusercontent.com/andersonpozo.me",
     "slug": "anderson-pozo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 121,
     "timeMonth": 136,
     "timeYear": 136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "Anderson Pozo (Netlify)",
