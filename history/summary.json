@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 9459,
-    "timeWeek": 2908,
-    "timeMonth": 1006,
-    "timeYear": 906,
+    "time": 910,
+    "timeDay": 9750,
+    "timeWeek": 3330,
+    "timeMonth": 1028,
+    "timeYear": 910,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/andersonpozo.netlify.app",
     "slug": "anderson-pozo-netlify",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 303,
-    "timeDay": 754,
-    "timeWeek": 868,
-    "timeMonth": 323,
-    "timeYear": 303,
-    "dailyMinutesDown": {
-      "2022-03-09": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 297,
+    "timeDay": 747,
+    "timeWeek": 875,
+    "timeMonth": 320,
+    "timeYear": 297,
+    "dailyMinutesDown": {}
   }
 ]
