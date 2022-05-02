@@ -4,19 +4,19 @@
     "url": "https://andersonpozo.me/",
     "icon": "https://favicons.githubusercontent.com/andersonpozo.me",
     "slug": "anderson-pozo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 447,
-    "timeDay": 117,
-    "timeWeek": 88,
-    "timeMonth": 105,
-    "timeYear": 447,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 445,
+    "timeDay": 160,
+    "timeWeek": 102,
+    "timeMonth": 108,
+    "timeYear": 445,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 17
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://andersonpozo.netlify.app",
     "icon": "https://favicons.githubusercontent.com/andersonpozo.netlify.app",
     "slug": "anderson-pozo-netlify",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 34,
-    "timeWeek": 71,
-    "timeMonth": 107,
+    "timeDay": 84,
+    "timeWeek": 79,
+    "timeMonth": 108,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2022-05-02": 0
+      "2022-05-02": 17
     }
   }
 ]
