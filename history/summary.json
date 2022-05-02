@@ -4,9 +4,9 @@
     "url": "https://andersonpozo.me/",
     "icon": "https://favicons.githubusercontent.com/andersonpozo.me",
     "slug": "anderson-pozo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 88,
     "timeMonth": 105,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 0
+    }
   },
   {
     "name": "Anderson Pozo (Netlify)",
     "url": "https://andersonpozo.netlify.app",
     "icon": "https://favicons.githubusercontent.com/andersonpozo.netlify.app",
     "slug": "anderson-pozo-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 71,
     "timeMonth": 107,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-02": 0
+    }
   }
 ]
