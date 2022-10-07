@@ -28,7 +28,7 @@
     "url": "https://andersonpozo.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/andersonpozo.netlify.app.ico",
     "slug": "anderson-pozo-netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 230,
     "timeYear": 240,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-09-04": 19,
       "2022-05-02": 17
     }
