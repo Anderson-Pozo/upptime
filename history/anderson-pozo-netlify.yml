@@ -1,7 +1,7 @@
 url: https://andersonpozo.netlify.app
-status: up
-code: 200
-responseTime: 243
-lastUpdated: 2022-12-05T23:00:43.209Z
+status: down
+code: 500
+responseTime: 3096
+lastUpdated: 2022-12-06T18:46:46.152Z
 startTime: Sun Feb 06 2022 03:26:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
